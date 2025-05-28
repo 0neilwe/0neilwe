@@ -15,7 +15,7 @@
 <!-- Cool 'About Me' Section-->
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>Hey there! I’m Oneilwe Motsatsi, a tech wizard with <strong>16 distinctions<strong> under my belt (yep, 16!). I’m all about coding, data crunching, and building stuff that makes life easier. Think web dev, data analytics, and full-stack magic—I’m your guy. Let’s team up and create something epic!</p>
+    <p>Hey there! I’m Oneilwe Motsatsi, a tech wizard with 16 distinctions under my belt (yep, 16!). I’m all about coding, data crunching, and building stuff that makes life easier. Think web dev, data analytics, and full-stack magic—I’m your guy. Let’s team up and create something epic!</p>
 </div>
 
 <!-- Link Up Badges(Socials) -->
